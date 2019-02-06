@@ -71,6 +71,8 @@ jobs:
           name: Access Raspberry Pi
           command: |
             sudo echo $PIBLOG_HOSTKEY >> ~/.ssh/known_hosts
+            # display known_hosts for debugging
+            cat ~/.ssh/known_hosts
             scp -r public/* $PIUSER@$PIBLOG:/var/www/html/emmaadelaide
             ls -al
 
