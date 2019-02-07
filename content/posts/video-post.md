@@ -1,6 +1,6 @@
 ---
-title: "Video post"
-date: 2018-03-16T20:18:53-05:00
+title: "Emma singing"
+date: 2008-01-16
 showDate: true
 draft: false
 tags: ["blog"]
