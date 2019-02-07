@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2018-02-13T13:42:49-05:00
+date: 2019-02-06
 ---
 
-Hello, I'm Emma. I am a design student at NJIT. I have great parents.
+Hello, I'm Emma. I am a second year design student at NJIT. I have great parents.
