@@ -19,7 +19,7 @@ pygmentsCodefences      = true
                                                          # Note: This will only become active if clickablePhotos is also true.
     smallImagesSubfolder = "small/"                      # The subfolder for the small versions of the images under the gallery (with trailing slash)
                                                          # For each image the small version has to have the same filename as the big version.
-    footerText          = "Call me Sam, a theme for Hugo."
+    footerText          = "Brought to you by Sam, a theme for Hugo."
 
 # Metadata
     description         = "A new Hugo site."            # Max 160 characters show in search results

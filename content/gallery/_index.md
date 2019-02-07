@@ -1,5 +1,5 @@
 ---
-title: "Photos from Tokyo"
+title: "Random Photos"
 type: "gallery"
 url: "/gallery"
 ---
